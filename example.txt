@@ -1,0 +1,2 @@
+Hello, this is a test file created using Node.js!
+Appended text.
